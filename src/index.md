@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Ryan Batchelder'
 ---
 
-# Hello World
+# Hi, I'm Ryan
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+I'm a Cloud Technology Architect helping people build resilient systems on AWS. I'm also an unapologetic aviation geek ✈️

@@ -1,14 +1,8 @@
 ---
-title: About Aidan Charles Powell
+title: About Ryan
 layout: about.njk
-name: Aidan Charles Powell
-image: '/images/me.jpeg'
+name: Ryan Batchelder
+image: '/images/me.jpg'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
-
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
-
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
-
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+My name is Ryan Batchelder and I’m a cloud architect helping people build resilient cloud-native web applications using modern technologies at Liberty Mutual Insurance. I got my BS in Computer Science from Northern Arizona University. In my time away from the keyboard, I enjoy everything tech, hockey, and am an unapologetic aviation geek.

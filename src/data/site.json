@@ -1,13 +1,13 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "name": "Ryan Batchelder",
+  "description": "Blog of Ryan Batchelder",
+  "url": "https://rdbatch.dev",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Ryan Batchelder",
+    "email": "ryan@rdbatch.dev",
+    "twitterHandle": "@rdbatch02"
   },
-  "defaultSocialImage": "/images/default-social-image.png",
+  "defaultSocialImage": "/images/default-social-image.jpg",
   "headerLinks": [
     {
       "text": "Blog",
@@ -22,18 +22,18 @@
   ],
   "socialLinks": [
     {
-      "text": "Instagram",
-      "url": "https://instagram.com/",
+      "text": "BlueSky",
+      "url": "https://bsky.app/profile/rdbatch.dev",
       "external": true
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/rdbatch",
       "external": true
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rdbatch/",
       "external": true
     }
   ],
