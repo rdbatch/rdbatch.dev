@@ -1,7 +1,7 @@
 ---
 title: My (non-AI) AWS re:Invent 24 picks
 permalink: posts/{{ title | slug }}/index.html
-date: '2020-12-10'
+date: '2024-12-10'
 tags: [aws, awsreinvent, lambda, s3]
 ---
 ![Cover Photo](/images/posts/my-non-ai-reinvent24-picks/cover.png)

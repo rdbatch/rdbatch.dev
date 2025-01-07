@@ -1,7 +1,7 @@
 ---
 title: AWS Resilience Series - Fault Isolation Boundaries
 permalink: posts/{{ title | slug }}/index.html
-date: '2020-10-08'
+date: '2024-10-08'
 tags: [aws, cloud, resilience]
 ---
 ![](/images/posts/aws-resilience-series-fault-isolation-boundaries/cover.jpg)

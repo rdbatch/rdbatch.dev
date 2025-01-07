@@ -1,7 +1,7 @@
 ---
 title: AWS Resilience Series - Availability vs Recoverability
 permalink: posts/{{ title | slug }}/index.html
-date: '2020-09-24'
+date: '2024-09-24'
 tags: [aws, backup, cloud, resilience]
 ---
 ![Cover Photo](/images/posts/aws-resilience-series-availability-vs-recoverability/Availability-Recoverability-cover.jpg)
