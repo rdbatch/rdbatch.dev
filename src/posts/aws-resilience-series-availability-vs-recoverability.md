@@ -1,5 +1,5 @@
 ---
-title: AWS Resilience Series - Availability vs Recoverability
+title: Resilience in the Cloud - Availability vs Recoverability
 permalink: posts/{{ title | slug }}/index.html
 date: '2024-09-24'
 tags: [aws, backup, cloud, resilience]

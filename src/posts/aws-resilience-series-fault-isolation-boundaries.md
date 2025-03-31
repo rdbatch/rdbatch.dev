@@ -1,5 +1,5 @@
 ---
-title: AWS Resilience Series - Fault Isolation Boundaries
+title: Resilience in the Cloud - Fault Isolation Boundaries
 permalink: posts/{{ title | slug }}/index.html
 date: '2024-10-08'
 tags: [aws, cloud, resilience]
