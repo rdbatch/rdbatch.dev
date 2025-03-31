@@ -35,6 +35,11 @@
       "text": "LinkedIn",
       "url": "https://www.linkedin.com/in/rdbatch/",
       "external": true
+    },
+    {
+      "text": "AWS Community Builders on dev.to",
+      "url": "https://dev.to/aws-builders",
+      "external": true
     }
   ],
   "footerLinks": [
